@@ -1,0 +1,19 @@
+Lo que aprendi:
+-En esta clase fue el como crear una "branch"
+-Tambien el como crear una tabla la cual ancle a mi DB.
+
+Mis errores:
+-No pude hacer correctamente el insert
+-Errores en el dictamen del insert
+-Errores simples de confusion en comillas
+-Repeti varias veces los mismos errores de typeo
+
+Errores encontrados por el maestro:
+-Falta de concentracion
+-Poco o nulo uso de memoria propia
+-Sin repasos a clases previas por parte del alumno.
+
+Lo que se espera para la siguiente clase:
+-Mejora de memoria
+-Mejora de concentracion
+-Mejora de analisis critico del alumno
